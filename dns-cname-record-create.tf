@@ -2,7 +2,7 @@
 ## KopiCloud AD API - Create DNS CNAME Records ##
 #################################################
 
-# Create a DNS CNAME Record for a machine
+# Create a DNS CNAME Record for a Computer
 resource "kopicloud_dns_cname_record" "test_cname" {
   hostname       = "tftestcn01"
   hostname_alias = "tftestcn01_alias"
