@@ -1,4 +1,4 @@
-## How to Manage DNS CNAME Records in Microsoft AD DNS using the KopiCloud AD API Terraform Provider
+## Manage DNS CNAME Records in Microsoft AD DNS using the KopiCloud AD API Terraform Provider
 
 * Create DNS CNAME Records
 * List ALL DNS CNAME Records
