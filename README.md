@@ -5,3 +5,5 @@
 * List DNS CNAME Records filtered by Zone Name
 * List DNS CNAME Records filtered by Hostname
 * List DNS CNAME Records filtered by Alias
+
+**KopiCloud AD API** available at https://www.kopicloud-ad-api.com
