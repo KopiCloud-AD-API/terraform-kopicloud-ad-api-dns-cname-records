@@ -14,3 +14,4 @@ output "dns_cname_record" {
   description = "Created DNS CNAME Record"
   value       = resource.kopicloud_dns_cname_record.test_cname
 }
+
