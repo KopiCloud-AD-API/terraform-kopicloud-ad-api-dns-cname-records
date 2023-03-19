@@ -50,4 +50,3 @@ output "OUTPUT_dns_cname_records_list_hostname" {
   description = "List Existing DNS CNAME Records"
   value       = data.kopicloud_dns_cname_records_list.test_cname_hostname
 }
-
